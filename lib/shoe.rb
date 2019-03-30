@@ -9,6 +9,10 @@ class Shoe
   def brand
     @brand
   end
+  
+  def cobble
+    
+  end
 
 
   
